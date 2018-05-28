@@ -1,5 +1,4 @@
-# Curso-de-Scratch
-## CURSO PROGRAMACIÓN DE VIDEOJUEGOS PARA NIÑOS CON SCRATCH
+# CURSO PROGRAMACIÓN DE VIDEOJUEGOS PARA NIÑOS CON SCRATCH
 
 Lic. Martin Stremiz
 
@@ -7,9 +6,13 @@ Scratch es un software gratuito que permite, por medio de bloques de programaci�
 
 - Objetivos
 ⋅⋅*	Conocer las funciones básicas del programa Scratch, su entorno gráfico y herramientas.
+
 ⋅⋅*	Adquirir la habilidad de organizar bloques de programación.
+
 ⋅⋅*	Identificar conceptos básicos de programación.
+
 ⋅⋅*	Realizar actividades y pequeñas animaciones.
+
 ⋅⋅*	Compartir las creaciones en la web. 
 
 Contenidos
