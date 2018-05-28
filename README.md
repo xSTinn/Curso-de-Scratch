@@ -4,14 +4,14 @@
 
 Scratch es un software gratuito que permite, por medio de bloques de programación, crear programas que controlan y mezclan imágenes, animaciones, sonidos, e interactuar con el usuario. Puede ser utilizado por alumnos a partir de los 8 años.
 
-Objetivos
+### Objetivos
 *	Conocer las funciones básicas del programa Scratch, su entorno gráfico y herramientas.
 *	Adquirir la habilidad de organizar bloques de programación.
 *	Identificar conceptos básicos de programación.
 *	Realizar actividades y pequeñas animaciones.
 *	Compartir las creaciones en la web. 
 
-Contenidos
+### Contenidos
 *	Sitio oficial y descarga del software.
 *	Descripción del programa.
 *	Presentación de las herramientas básicas de programación.
