@@ -1,29 +1,30 @@
 # Curso-de-Scratch
-##CURSO PROGRAMACIÓN DE VIDEOJUEGOS PARA NIÑOS CON SCRATCH
+## CURSO PROGRAMACIÓN DE VIDEOJUEGOS PARA NIÑOS CON SCRATCH
 
 Lic. Martin Stremiz
 
 Scratch es un software gratuito que permite, por medio de bloques de programación, crear programas que controlan y mezclan imágenes, animaciones, sonidos, e interactuar con el usuario. Puede ser utilizado por alumnos a partir de los 8 años.
 
 - Objetivos
-•	Conocer las funciones básicas del programa Scratch, su entorno gráfico y herramientas.
-•	Adquirir la habilidad de organizar bloques de programación.
-•	Identificar conceptos básicos de programación.
-•	Realizar actividades y pequeñas animaciones.
-•	Compartir las creaciones en la web. 
+⋅⋅*	Conocer las funciones básicas del programa Scratch, su entorno gráfico y herramientas.
+⋅⋅*	Adquirir la habilidad de organizar bloques de programación.
+⋅⋅*	Identificar conceptos básicos de programación.
+⋅⋅*	Realizar actividades y pequeñas animaciones.
+⋅⋅*	Compartir las creaciones en la web. 
 
 Contenidos
-•	Sitio oficial y descarga del software.
-•	Descripción del programa.
-•	Presentación de las herramientas básicas de programación.
-•	Proyectos sencillos para comprender cómo programar.
-•	Uso de variables y operadores lógicos.
-•	Como implementar sensores en la programación.
-•	Recorrer y analizar otros proyectos realizados y explicados en el sitio de Scratch.
-Duración
+⋅⋅*	Sitio oficial y descarga del software.
+⋅⋅*	Descripción del programa.
+⋅⋅*	Presentación de las herramientas básicas de programación.
+⋅⋅*	Proyectos sencillos para comprender cómo programar.
+⋅⋅*	Uso de variables y operadores lógicos.
+⋅⋅* Como implementar sensores en la programación.
+⋅⋅*	Recorrer y analizar otros proyectos realizados y explicados en el sitio de Scratch.
+
+### Duración
 La duración propuesta para el curso es de 9 clases con una duración de 2 (dos) horas.
 
-###Cronograma
+### Cronograma
 - Módulo 1 – Comenzando con Scratch
 1.	Que es Scratch
 2.	Creación de una cuenta de usuario
